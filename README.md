@@ -1,3 +1,5 @@
+**Note:** This is an experimental/alpha project.
+
 # LibHoney
 
 A library for sending events to [Honeycomb](https://www.honeycomb.io) written in Swift.
